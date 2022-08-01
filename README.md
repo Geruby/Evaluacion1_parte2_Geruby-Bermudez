@@ -1,5 +1,5 @@
 Evaluación I de distribuidos parte 2
-Alumna Geruby Bermudez C.I 26.264.179
+Alumna Geruby Bermudez
 
 Contiene:
 -Audio explicativo de la aplicacion
